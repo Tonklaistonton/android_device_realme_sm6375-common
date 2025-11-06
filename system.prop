@@ -30,3 +30,10 @@ persist.timed.enable=true
 # WiFi Display
 persist.debug.wfd.enable=1
 persist.sys.wfd.virtual=0
+
+# About Phone Definitions
+ro.product.marketname=Realme 9 pro 
+ro.infinity.soc=Qualcomm Snapdragon 695
+ro.infinity.battery=5000 mAh
+ro.infinity.display=1080 x 2412, 120 Hz
+ro.infinity.camera=64MP + 8MP + 2MP
